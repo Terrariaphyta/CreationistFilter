@@ -42,6 +42,12 @@
     "scientific_resource": "https://nas.edu"
   },
   {
+    "domain": "gotquestions.org",
+    "category": "Creation-Science",
+    "reason": "Promotes creationism and calls evolution 'flawed' (Source: https://www.gotquestions.org/flaws-theory-evolution.html)",
+    "scientific_resource": "https://whyevolutionistrue.com/"
+  },
+  {
     "domain": "icr.org",
     "category": "Young Earth Creationism",
     "reason": "The Institute for Creation Research uses distorted physical and geological science to validate biblical text over empirical evidence.",
@@ -58,11 +64,5 @@
     "category": "Creation-Science",
     "reason": "An archive specifically designed to host deceptive biological rebuttals against mainstream science archives like TalkOrigins.",
     "scientific_resource": "https://talkorigins.org"
-  },
-  {
-    "domain": "gotquestions.org",
-    "category": "Creation-Science",
-    "reason": "Promotes creationism and calls evolution 'flawed' (Source: https://www.gotquestions.org/flaws-theory-evolution.html)",
-    "scientific_resource": "https://whyevolutionistrue.com/"
   }
 ]
